@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Roma Wood Fire",
+    "lat": 28.633,
+    "lng": 77.219,
+    "price": 3,
+    "rating": 4.6,
+    "cuisines": [
+      "italian"
+    ],
+    "dishes": [
+      "pizza",
+      "pasta"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Pizza Gali",
+    "lat": 28.556,
+    "lng": 77.2,
+    "price": 1,
+    "rating": 4.1,
+    "cuisines": [
+      "italian",
+      "fast food"
+    ],
+    "dishes": [
+      "pizza",
+      "garlic bread"
+    ],
+    "veg": true
+  },
+  {
+    "name": "Nonna's Table",
+    "lat": 28.527,
+    "lng": 77.219,
+    "price": 4,
+    "rating": 4.8,
+    "cuisines": [
+      "italian"
+    ],
+    "dishes": [
+      "pizza",
+      "pasta",
+      "risotto"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Pasta La Vista",
+    "lat": 28.56,
+    "lng": 77.175,
+    "price": 2,
+    "rating": 4.3,
+    "cuisines": [
+      "italian"
+    ],
+    "dishes": [
+      "pasta",
+      "pizza"
+    ],
+    "veg": true
+  },
+  {
+    "name": "Biryani Baithak",
+    "lat": 28.651,
+    "lng": 77.231,
+    "price": 2,
+    "rating": 4.5,
+    "cuisines": [
+      "mughlai",
+      "north indian"
+    ],
+    "dishes": [
+      "biryani",
+      "kebab"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Dilli Dhaba",
+    "lat": 28.544,
+    "lng": 77.233,
+    "price": 1,
+    "rating": 4.3,
+    "cuisines": [
+      "north indian",
+      "punjabi"
+    ],
+    "dishes": [
+      "butter chicken",
+      "naan",
+      "paratha"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Sasta Chaat Corner",
+    "lat": 28.614,
+    "lng": 77.209,
+    "price": 1,
+    "rating": 4.2,
+    "cuisines": [
+      "street food"
+    ],
+    "dishes": [
+      "chaat",
+      "golgappa"
+    ],
+    "veg": true
+  },
+  {
+    "name": "Momo Mela",
+    "lat": 28.582,
+    "lng": 77.205,
+    "price": 1,
+    "rating": 4.0,
+    "cuisines": [
+      "tibetan",
+      "street food"
+    ],
+    "dishes": [
+      "momos"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Dragon Pearl",
+    "lat": 28.571,
+    "lng": 77.243,
+    "price": 3,
+    "rating": 4.4,
+    "cuisines": [
+      "chinese"
+    ],
+    "dishes": [
+      "noodles",
+      "dim sum"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Udupi Sagar",
+    "lat": 28.553,
+    "lng": 77.257,
+    "price": 1,
+    "rating": 4.4,
+    "cuisines": [
+      "south indian"
+    ],
+    "dishes": [
+      "dosa",
+      "idli"
+    ],
+    "veg": true
+  },
+  {
+    "name": "Burger Barn",
+    "lat": 28.599,
+    "lng": 77.233,
+    "price": 2,
+    "rating": 3.9,
+    "cuisines": [
+      "american",
+      "fast food"
+    ],
+    "dishes": [
+      "burger",
+      "fries"
+    ],
+    "veg": false
+  },
+  {
+    "name": "The Brew Room",
+    "lat": 28.542,
+    "lng": 77.196,
+    "price": 2,
+    "rating": 4.5,
+    "cuisines": [
+      "cafe",
+      "continental"
+    ],
+    "dishes": [
+      "coffee",
+      "sandwich",
+      "pasta"
+    ],
+    "veg": true
+  },
+  {
+    "name": "Kulfi Kingdom",
+    "lat": 28.608,
+    "lng": 77.24,
+    "price": 1,
+    "rating": 4.7,
+    "cuisines": [
+      "dessert"
+    ],
+    "dishes": [
+      "kulfi",
+      "falooda"
+    ],
+    "veg": true
+  },
+  {
+    "name": "Sushi Sen",
+    "lat": 28.529,
+    "lng": 77.214,
+    "price": 4,
+    "rating": 4.7,
+    "cuisines": [
+      "japanese"
+    ],
+    "dishes": [
+      "sushi",
+      "ramen"
+    ],
+    "veg": false
+  },
+  {
+    "name": "Crust & Co.",
+    "lat": 28.514,
+    "lng": 77.206,
+    "price": 2,
+    "rating": 4.6,
+    "cuisines": [
+      "italian",
+      "cafe"
+    ],
+    "dishes": [
+      "pizza",
+      "garlic bread"
+    ],
+    "veg": false
+  }
+]
